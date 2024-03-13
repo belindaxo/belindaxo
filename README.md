@@ -4,6 +4,3 @@
 🌱 I’m currently learning Java, MERN stack development, and Python
 \
 🤔 I’m looking to learn more about game development and UI/UX design!
-\
-😄 Pronouns: she/her
-
