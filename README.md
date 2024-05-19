@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me :
 - 👩‍🎓 I am a student at UBC studying Computer Science + Data Science 
-- 🌱Exploring MERN development, Java, Python, machine learning, and UI/UX design
+- 🌱 Currently working as a Business Intelligence Analyst for the summer!
 
 ---
 
