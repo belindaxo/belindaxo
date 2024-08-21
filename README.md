@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me :
 - 👩‍🎓 I am a student at UBC studying Computer Science + Data Science 
-- 🌱 Currently working as a Business Intelligence Analyst at Spartan Controls
+- 🌱 Business Intelligence Analyst Intern at Spartan Controls Ltd. - developing Custom Widgets for SAP Analytics Cloud stories
 
 ---
 
