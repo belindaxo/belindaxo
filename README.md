@@ -8,8 +8,8 @@
 ---
 
 ### 👩‍💻 About Me :
-- 👩‍🎓 I am a student at UBC studying Computer Science + Data Science 
-- 🌱 Business Intelligence Analyst Intern at Spartan Controls Ltd. - developing Custom Widgets for SAP Analytics Cloud stories
+- 👩‍🎓 UBC student wih a focus on Coputer Science, Data Science, Cognitive Systems, and Philosophy!
+- 🌱 Business Intelligence Analyst - developing Custom Widgets for SAP Analytics Cloud stories
 
 ---
 
@@ -44,5 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   
   ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belindaxo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
