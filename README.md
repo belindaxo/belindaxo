@@ -44,6 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
   
   ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belindaxo)](https://github.com/anuraghazra/github-readme-stats)
+![belindaxo's github stats](https://github-readme-stats.vercel.app/api?username=belindaxo&show_icons=true&theme=github_dark_dimmed )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belindaxo&hide_progress=true&hide=C,Powershell&theme=github_dark_dimmed )
 </div>
 
