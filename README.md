@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me :
-- 👩‍🎓 UBC student wih a focus on Computer Science, Data Science, Cognitive Systems, and Philosophy!
+- 👩‍🎓 UBC student 
 - 🌱 Business Intelligence Analyst - developing Custom Widgets for SAP Analytics Cloud stories
 
 ---
